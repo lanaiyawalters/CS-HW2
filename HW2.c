@@ -6,7 +6,7 @@
 int main()
 {
     /*
-    Enter the hw average score:
+    Enter the hw average score: HI!!!!
     Invalid score. Try again:
     Enter the project average score:
     Invalid score. Try again:
