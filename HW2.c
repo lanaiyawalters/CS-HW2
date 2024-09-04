@@ -1,5 +1,5 @@
 //unit2.hw
-//Group members: Katie Kwatinetz, Lanaiya
+//Group members: Katie Kwatinetz, Lanaiya Walters
 
 #include <stdio.h>
 
@@ -36,5 +36,13 @@ int main()
     All average scores need to be declared as floats
     *************************************
     */
+    float hw; 
+    float project;
+    float lab;
+    float midterm1, midterm2, final;
+
+    printf ("Enrer the hw average score: ");
+    scanf ("%f", &hw);
+    printf ("Enter the project average score: ");
 
 }
